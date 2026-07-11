@@ -60,15 +60,7 @@ I enjoy transforming ideas into elegant digital products using modern frontend t
 
 ---
 
-# 📈 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=jhilikdas839&theme=tokyonight&hide_border=true&include_all_commits=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=jhilikdas839&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jhilikdas839&theme=tokyonight&hide_border=true&layout=compact)
-
----
 
 # 🤝 Connect With Me
 
