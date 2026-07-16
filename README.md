@@ -1,211 +1,155 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F0C29,50:1A1A3E,100:24243E&height=300&section=header&text=JHILIK.DAS()&fontSize=60&fontColor=00F0FF&fontAlignY=35&animation=twinkling&fontFamily=monospace"/>
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Jhilik+%F0%9F%91%8B;Frontend+Developer;React+%2B+GSAP+Enthusiast;UI%2FUX+%2B+Brand+Designer" alt="Typing SVG"/>
 
 <br/>
 
-```
-┌──────────────────────────────────────────────────────────┐
-│  root@jhilik:~$ whoami                                    │
-│  > Frontend Developer · React Engineer · UI Craftsman     │
-│  root@jhilik:~$ location --show                           │
-│  > West Bengal, India                                     │
-│  root@jhilik:~$ status --check                            │
-│  > [ONLINE] Open to work · Freelance · Collab              │
-└──────────────────────────────────────────────────────────┘
-```
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=B026FF&center=true&vCenter=true&width=800&lines=%3E+Building+interfaces+that+feel+inevitable;%3E+React+%2B+GSAP+%2B+Tailwind;%3E+Design+in+Figma%2C+Ship+in+Code;%3E+Currently%3A+breaking+things+to+fix+them+better" alt="Typing SVG"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/ACCESS-GRANTED-00F0FF?style=for-the-badge&labelColor=0D0D1A&logo=v&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/BUILD-PRODUCTION_READY-B026FF?style=for-the-badge&labelColor=0D0D1A"/>
-<img src="https://img.shields.io/badge/UPTIME-ALWAYS_SHIPPING-FF2E92?style=for-the-badge&labelColor=0D0D1A"/>
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="500"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00F0FF&section=header"/>
-
 <br/>
 
-## ▸ 01 — SYSTEM.PROFILE
+## 👋 a bit about me
 
 <table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
-```javascript
-const jhilik = {
-  role: "Frontend Developer & Designer",
-  education: "BCA (Honours)",
-  location: "West Bengal, India",
-  languages: ["JavaScript", "HTML", "CSS", "Python"],
-  frameworks: ["React", "Redux", "Vite"],
-  style: ["Tailwind CSS", "SCSS", "GSAP"],
-  designTools: ["Figma", "Canva"],
-  currentGoal: "Ship pixel-perfect, fast, dark-mode-first UI",
-  portfolio: "jproxy.xyz/Jproxy",
-};
-
-console.log(jhilik.philosophy);
-// "Design is how it works, not just how it looks."
-```
+- 🎨 Frontend Developer & Graphic Designer from **West Bengal, India**
+- 🎓 Currently pursuing my **BCA (Honours)**
+- ⚛️ Building interfaces with **React, Tailwind CSS & GSAP**
+- 🖌️ Designing brand systems in **Figma & Canva**
+- 🔐 Learning **cybersecurity** on the side (CompTIA Security+, eJPT)
+- 🌐 Everything I build lives at **[jproxy.xyz/Jproxy](https://jproxy.xyz/Jproxy/)**
+- 💌 Reach me at **jhilikdas839@gmail.com**
 
 </td>
-<td width="45%" valign="top" align="center">
+<td width="40%" valign="top" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2200&pause=700&color=00F0FF&center=true&vCenter=true&width=340&lines=%5BINIT%5D+Loading+dev.exe...;%5BOK%5D+React+environment+ready;%5BOK%5D+GSAP+timelines+armed;%5BOK%5D+Tailwind+utilities+compiled;%5B%E2%9C%93%5D+Ready+to+build"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,gsap,vite,redux,figma&theme=dark"/>
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=B026FF&section=header"/>
-
-<br/>
-
-## ▸ 02 — ACTIVE_PROCESSES
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🟣 running now
-- Multi-page brand & PDF collateral systems
-- Advanced React patterns & perf tuning
-- CompTIA Security+ / eJPT prep
-
-</td>
-<td width="50%" valign="top">
-
-### 🔵 queued next
-- GSAP scroll-based storytelling
-- TypeScript across React projects
-- Offensive security fundamentals
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="280"/>
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-
-📡 **signal:** [jhilikdas839@gmail.com](mailto:jhilikdas839@gmail.com) &nbsp;|&nbsp; 🌐 **uplink:** [jproxy.xyz/Jproxy](https://jproxy.xyz/Jproxy/)
-
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=FF2E92&section=header"/>
-
-<br/>
-
-## ▸ 03 — TECH_STACK.exe
+## 🛠️ my toolkit
 
 <div align="center">
 
-<table>
-<tr><td align="center"><b>CORE</b></td><td><img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/></td></tr>
-<tr><td align="center"><b>FRAMEWORK</b></td><td><img src="https://skillicons.dev/icons?i=react,vite,redux&theme=dark"/></td></tr>
-<tr><td align="center"><b>STYLE / MOTION</b></td><td><img src="https://skillicons.dev/icons?i=tailwind,sass,gsap&theme=dark"/></td></tr>
-<tr><td align="center"><b>TOOLING</b></td><td><img src="https://skillicons.dev/icons?i=git,github,npm,vscode&theme=dark"/></td></tr>
-<tr><td align="center"><b>DESIGN</b></td><td><img src="https://skillicons.dev/icons?i=figma&theme=dark"/> <img src="https://img.shields.io/badge/Canva-B026FF?style=flat-square&logo=canva&logoColor=white"/></td></tr>
-</table>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,redux,tailwind,sass,git,github,figma,vscode&theme=dark&perline=6"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Canva-6C63FF?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00F0FF&section=header"/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%"/>
+</div>
 
-<br/>
-
-## ▸ 04 — FEATURED_BUILDS
+## 🚀 stuff i've built
 
 <br/>
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="15%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="70"/>
+</td>
+<td width="85%">
 
-### 🎨 Portfolio — Personal HQ
-Premium, motion-driven personal site. Scroll-triggered GSAP sequences, dark-first design, optimized asset pipeline.
-
+**🎨 Portfolio — Personal Dev Hub**
+Fully responsive personal site with scroll-triggered GSAP animations and a dark, premium aesthetic.
 `React` `Tailwind` `GSAP` `Vite`
-
-**→** [jproxy.xyz/Jproxy](https://jproxy.xyz/Jproxy/)
-`github.com/JhilikDas/portfolio`
-
-</td>
-<td width="50%" valign="top">
-
-### ⛅ Weather Dashboard
-Real-time weather app with async state handling, live search, and graceful loading/error states.
-
-`React` `JS (ES6+)` `Weather API`
-
-**→** *add deployed link*
-`github.com/JhilikDas/weather-app`
+&nbsp;•&nbsp; [Live →](https://jproxy.xyz/Jproxy/) &nbsp;•&nbsp; `github.com/JhilikDas/portfolio`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="15%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d3-4f7e-bcd4-e6e5c58ed3f2.png" width="70"/>
+</td>
+<td width="85%">
 
-### 💊 Coalfield Drug House
-Client production site for a pharmaceutical retailer — trust-first UI, fast loads, SEO-friendly structure.
-
-`HTML5` `CSS3` `JavaScript`
-
-**→** *add deployed link*
-`github.com/JhilikDas/coalfield-drug-house`
+**⛅ Weather Dashboard**
+Real-time weather app with live search, loading/error states, and smooth async data handling.
+`React` `JavaScript` `Weather API`
+&nbsp;•&nbsp; `github.com/JhilikDas/weather-app`
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="15%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="70"/>
+</td>
+<td width="85%">
 
-### ⚛️ React UI Lab
-Sandbox of production-grade React patterns — global state, form validation, reusable components.
+**💊 Coalfield Drug House**
+Production website for a real pharmaceutical retail client — trust-first UI and fast load performance.
+`HTML5` `CSS3` `JavaScript`
+&nbsp;•&nbsp; `github.com/JhilikDas/coalfield-drug-house`
 
-`React` `Redux` `RHF` `Tailwind`
+</td>
+</tr>
+<tr>
+<td width="15%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216122007-b9e01300-2b1e-45ac-ba48-7b9539d0f39c.png" width="70"/>
+</td>
+<td width="85%">
 
-**→** *add deployed link*
-`github.com/JhilikDas/react-ui-projects`
+**⚛️ React UI Lab**
+A growing sandbox of production-grade React patterns — global state, form validation, reusable components.
+`React` `Redux` `React Hook Form` `Tailwind`
+&nbsp;•&nbsp; `github.com/JhilikDas/react-ui-projects`
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=B026FF&section=header"/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%"/>
+</div>
 
-<br/>
-
-## ▸ 05 — TELEMETRY
+## 📊 github stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JhilikDas&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D1A&title_color=B026FF&icon_color=00F0FF&text_color=C9D1D9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhilikDas&layout=compact&theme=radical&hide_border=true&bg_color=0D0D1A&title_color=B026FF&text_color=C9D1D9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JhilikDas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=B026FF&text_color=C9D1D9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhilikDas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JhilikDas&theme=radical&hide_border=true&background=0D0D1A&stroke=B026FF&ring=00F0FF&fire=FF2E92&currStreakLabel=00F0FF" width="65%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JhilikDas&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F0FF&ring=B026FF&fire=FF2E92" width="65%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=JhilikDas&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JhilikDas&theme=react-dark&hide_border=true&bg_color=0D0D1A&color=00F0FF&line=B026FF&point=FF2E92" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=JhilikDas&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10"/>
 
 </div>
 
-<br/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%"/>
+</div>
+
+## 📈 activity
 
 <div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JhilikDas&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F0FF&line=B026FF&point=FF2E92" width="95%"/>
+
+<br/><br/>
+
 <img src="https://raw.githubusercontent.com/JhilikDas/JhilikDas/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+
 </div>
 
 <details>
@@ -248,56 +192,53 @@ jobs:
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=FF2E92&section=header"/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%"/>
+</div>
 
-<br/>
-
-## ▸ 06 — SOURCE.log
+## 💭 philosophy
 
 <div align="center">
 
-```
-> commit: "Good frontend work is invisible."
-> commit: "The user never thinks about the code —
->          only the ease of using it."
-> commit: "I build interfaces that get out of the way
->          and let people move fast."
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=B026FF&center=true&vCenter=true&width=700&lines=%22Good+frontend+work+is+invisible.%22;%22The+user+never+thinks+about+the+code%2C%22;%22only+the+ease+of+using+it.%22"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00F0FF&section=header"/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%"/>
+</div>
 
-<br/>
-
-## ▸ 07 — CONNECT.sh
+## 🔗 let's connect
 
 <div align="center">
 
 <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D1A"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
 </a>
 <a href="https://jproxy.xyz/Jproxy/">
-  <img src="https://img.shields.io/badge/Portfolio-B026FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D0D1A"/>
+  <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/>
 </a>
 <a href="https://github.com/JhilikDas">
-  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D1A"/>
+  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
 </a>
 <a href="https://instagram.com/YOUR-INSTAGRAM-HANDLE">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D0D1A"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117"/>
 </a>
 <a href="mailto:jhilikdas839@gmail.com">
-  <img src="https://img.shields.io/badge/Email-00F0FF?style=for-the-badge&logo=gmail&logoColor=0D0D1A&labelColor=0D0D1A"/>
+  <img src="https://img.shields.io/badge/Email-00F0FF?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117"/>
 </a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=JhilikDas&style=for-the-badge&color=B026FF&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/JhilikDas?style=for-the-badge&color=00F0FF&labelColor=0D0D1A"/>
-<img src="https://img.shields.io/github/stars/JhilikDas?style=for-the-badge&color=FF2E92&labelColor=0D0D1A"/>
+<img src="https://img.shields.io/github/followers/JhilikDas?style=for-the-badge&color=00F0FF&labelColor=0D1117"/>
 
-</div>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:24243E,50:1A1A3E,100:0F0C29&height=180&section=footer"/>
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="450"/>
+
+<br/>
+
+**thanks for stopping by — go build something ✨**
 
 </div>
